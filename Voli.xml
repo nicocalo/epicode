@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<Voli>
+   <prenotazione>
+     <idVolo>CA453</idVolo>
+     <idCliente>FC4567</idCliente>
+     <prezzo valuta="Euro">140</prezzo>
+   </prenotazione>
+        <prenotazione>
+          <idVolo>BR345</idVolo>
+          <idCliente>CD3421</idCliente>
+          <prezzo valuta="Euro">200</prezzo>
+        </prenotazione>
+              <prenotazione>
+                <idVolo>FS098</idVolo>
+                <idCliente>ZS1234</idCliente>
+                <prezzo valuta="Euro">368</prezzo>
+              </prenotazione>
+                  <prenotazione>
+                    <idVolo>LO567</idVolo>
+                    <idCliente>SD0978</idCliente>
+                    <prezzo valuta="Euro">450</prezzo>
+                  </prenotazione>
+                      <prenotazione>
+                         <idVolo>LK067</idVolo>
+                         <idCliente>RB8900</idCliente>
+                         <prezzo valuta="Euro">800</prezzo>
+                      </prenotazione>
+                            <prenotazione>
+                              <idVolo>HI674</idVolo>
+                              <idCliente>AS6780</idCliente>
+                              <prezzo valuta="Euro">1000</prezzo>
+                            </prenotazione>
+                                  <prenotazione>
+                                    <idVolo>NH900</idVolo>
+                                    <idCliente>PL0009</idCliente>
+                                    <prezzo valuta="Euro">100</prezzo>
+                                  </prenotazione>
+                                       <prenotazione>
+                                          <idVolo>CV561</idVolo>
+                                          <idCliente>AX0975</idCliente>
+                                          <prezzo valuta="Euro">950</prezzo>
+                                       </prenotazione>
+                                             <prenotazione>
+                                                <idVolo>XX001</idVolo>
+                                                <idCliente>PO6723</idCliente>
+                                                <prezzo valuta="Euro">1200</prezzo>
+                                             </prenotazione>
+                                                  <prenotazione>
+                                                      <idVolo>JK432</idVolo>
+                                                      <idCliente>ZX9088</idCliente>
+                                                      <prezzo valuta="Euro">400</prezzo>
+                                                  </prenotazione>
+</Voli>

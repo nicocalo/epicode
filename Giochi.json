@@ -1,0 +1,69 @@
+{
+{
+"name":"luca",
+"età":"24",
+"iscritto":false,
+"giochi":["dragon ball","fifa22","tekken"]
+}
+{
+"name":"franco",
+"età":"23",
+"iscritto":true,
+"giochi":{
+"gioco1":"mario kart",
+"gioco2":"pes20"
+}
+}
+{
+"name":"giada",
+"età":"19",
+"iscritto":null,
+"giochi":"chi vuol essere milionario"
+}
+{
+"name":"joe",
+"età":"33",
+"iscritto":false,
+"giochi":["call of duty","fifa19","one piece"]
+}
+{
+"name":"elisa",
+"età":"28",
+"iscritto":true,
+"giochi":["pokemon","pes20"]
+}
+{
+"name":"luigi",
+"età":"31",
+"iscritto":false,
+"giochi":["crash","wrc20"]
+}
+{
+"name":"ettore",
+"età":"56",
+"iscritto":true,
+"giochi":"guitar hero"
+}
+{
+"name":"marco",
+"età":"40",
+"iscritto":false,
+"giochi":["asphalt2","fifa21","minecraft"]
+}
+{
+"name":"enrico",
+"età":"18",
+"iscritto":true,
+"giochi":{
+"gioco1":"naruto",
+"gioco2":"just dance"
+"gioco3":"F1"
+}
+}
+{
+"name":"anselmo",
+"età":"31",
+"iscritto":null,
+"giochi":null
+}
+}
